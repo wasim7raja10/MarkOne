@@ -15,7 +15,7 @@ const highScore = [
 // question-answer
 const questions = [
   {
-    question: "What is my name? ",
+    question: "What is my full name? ",
     answer: "Wasim Raja"
   },
   {
@@ -23,19 +23,19 @@ const questions = [
     answer: "Hyderabad"
   },
   {
-    question: "What did I study in college? ",
+    question: "What did I study in college? (CSE/IT/ECE) ",
     answer: "CSE"
   },
   {
-    question: "Do I like to play computer/mobile games? ",
+    question: "Do I like to play computer/mobile games? (yes/no) ",
     answer: "No"
   },
   {
-    question: "Am I a nerd? ",
+    question: "Am I a nerd? (yes/no) ",
     answer: "Yes"
   },
   {
-    question: "Do I like to play Chess? ",
+    question: "Do I like to play Chess? (yes/no) ",
     answer: "Yes"
   },
 ]
